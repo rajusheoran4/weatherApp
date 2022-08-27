@@ -67,28 +67,28 @@ form.addEventListener('submit', function (e) {
             case 0:
             dates.innerHTML = `${date.getDate()}, Jan`
             break;
-            case 2:
+            case 1:
             dates.innerHTML = `${date.getDate()}, Feb`
             break;
-            case 3:
+            case 2:
             dates.innerHTML = `${date.getDate()}, Mar`
             break;
-            case 4:
+            case 3:
             dates.innerHTML = `${date.getDate()}, Apr`
             break;
-            case 5:
+            case 4:
             dates.innerHTML = `${date.getDate()}, May`
             break;
-            case 6:
+            case 5:
             dates.innerHTML = `${date.getDate()}, Jun`
             break;
-            case 7:
+            case 6:
             dates.innerHTML = `${date.getDate()}, Jul`
             break;
-            case 8:
+            case 7:
             dates.innerHTML = `${date.getDate()}, Aug`
             break;
-            case 9:
+            case 8:
             dates.innerHTML = `${date.getDate()}, Sept.`
             break;
             case 9:
